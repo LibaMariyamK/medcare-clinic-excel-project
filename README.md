@@ -13,7 +13,7 @@ columns, and answer business questions using only Excel formulas.
 - Domain: Clinic + Pharmacy
 
 ## Tools Used
-- Microsoft Excel (formulas only)
+- Microsoft Excel  
 
 ## Project Structure
 The Excel file contains the following sheets:
@@ -21,9 +21,7 @@ The Excel file contains the following sheets:
 |-------| --------|
 | Raw Data | Original dataset — do not edit |
 | Working Sheet |Create Your cleaned data and derived columns |  
-| Changelog | Document every change you make |
 | Summary Report | Your formulas, answers, and written findings |
-| Question Set (A/B/C/D/E) | Your assigned questions |
 
 ## How to Submit
 1. Fork this repository
